@@ -67,12 +67,6 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <img height="154" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGg3OWdicjBwemJqbjdncDNmcW92Nmp2OTVzOHoyZHpyMWJ6c2Y4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"  />
-</div>
-
-###
-
 <br clear="both">
 
 ###
